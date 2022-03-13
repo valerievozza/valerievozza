@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Valerie
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me:
+  - Twitter: @valerievozza_
+  - LinkedIn: linkedin.com/in/valerievozza
