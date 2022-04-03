@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Valerie
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me:
+✨ Hi, I’m Valerie
+📫 How to reach me:
   - Twitter: @valerievozza_
   - LinkedIn: linkedin.com/in/valerievozza
+  - Portfolio: valerievozza.netlify.app
