@@ -1,5 +1,8 @@
-✨ Hi, I’m Valerie!
+#✨ Hi, I’m Valerie!
 
-- Twitter: @valerievozza_
-- LinkedIn: linkedin.com/in/valerievozza
-- Portfolio: valerievozza.netlify.app
+Software Engineer @100Devs
+Portland, OR
+
+- Twitter: [@valerievozza_](https://www.twitter.com/valerievozza_)
+- LinkedIn: https://www.linkedin.com/in/valerievozza
+- Portfolio: https://valerievozza.netlify.app
