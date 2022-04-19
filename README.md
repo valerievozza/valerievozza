@@ -1,4 +1,4 @@
-#✨ Hi, I’m Valerie!
+# Hi, I’m Valerie!
 
 Software Engineer @100Devs
 Portland, OR
