@@ -1,6 +1,6 @@
-# Hi, I’m Valerie!
 ![Valerie Vozza](https://user-images.githubusercontent.com/101529105/163921442-bffd97a6-a435-4dfb-aa79-5b3552dd981b.png)
 
+# Hi, I’m Valerie!
 ## Software Engineer @100Devs | Portland, OR
 
 * **Portfolio:** https://valerievozza.netlify.app
