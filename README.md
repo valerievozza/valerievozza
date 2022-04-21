@@ -11,7 +11,7 @@
 
 | Vegana | Quizzical | Useless Fact Generator |
 |:------:|:---------:|:----------------------:|
-| ![Vegana Screenshot](https://github.com/valerievozza/portfolio/blob/main/images/vegana-mobile.png) | ![Quizzical Screenshot](https://github.com/valerievozza/portfolio/blob/main/images/quizzical-mobile.png) | ![Useless Facts Screenshot](https://github.com/valerievozza/portfolio/blob/main/images/useless-facts-mobile.png) |
+| ![Vegana Screenshot](https://github.com/valerievozza/portfolio/blob/main/images/vegana-mobile.png) | ![Quizzical Screenshot](https://github.com/valerievozza/portfolio/blob/main/images/quizzical.png) | ![Useless Facts Screenshot](https://github.com/valerievozza/portfolio/blob/main/images/useless-facts-mobile.png) |
 | A web app that enables the user to enter a UPC code to see a list of the item's ingredients & whether or not they are vegan. Built using the Open Food Facts API. | A trivia game in a web app built using the Open Trivia Database API. | A web application that randomly generates a useless fun fact. Built using the Useless Facts API. |
 | [Repo](https://github.com/valerievozza/vegana) | [Repo](https://github.com/valerievozza/quizzical) | [Repo](https://github.com/valerievozza/useless-facts) |
 [Website](https://vegana.netlify.app) | [Website](https://quizzical-trivia-game.netlify.app/) | [Website](https://useless-facts.netlify.app/) |
