@@ -9,9 +9,9 @@
 
 ### Projects
 
-| #### Vegana | Quizzical | Useless Fact Generator |
+| Vegana | Quizzical | Useless Fact Generator |
 |--------|-----------|------------------------|
-| ![Vegana Screenshot](https://github.com/valerievozza/portfolio/blob/main/images/vegana.png) |  |  |
+| ![Vegana Screenshot](https://github.com/valerievozza/portfolio/blob/main/images/vegana.png) | ![Quizzical Screenshot](https://github.com/valerievozza/portfolio/blob/main/images/quizzical.png) | ![Useless Facts Screenshot](https://github.com/valerievozza/portfolio/blob/main/images/useless-facts.png) |
 
 
 <h3 align="left">Languages and Tools:</h3>
