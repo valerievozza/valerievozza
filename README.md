@@ -12,10 +12,8 @@
 | Vegana | Quizzical | Useless Fact Generator |
 |:------:|:---------:|:----------------------:|
 | ![Vegana Screenshot](https://github.com/valerievozza/portfolio/blob/main/images/vegana.png) | ![Quizzical Screenshot](https://github.com/valerievozza/portfolio/blob/main/images/quizzical.png) | ![Useless Facts Screenshot](https://github.com/valerievozza/portfolio/blob/main/images/useless-facts.png) |
-| [Repo](https://github.com/valerievozza/vegana)
-[Website](https://vegana.netlify.app) | [Repo](https://github.com/valerievozza/quizzical)
-[Website](https://quizzical-trivia-game.netlify.app/) | [Repo](https://github.com/valerievozza/useless-facts)
-[Website](https://useless-facts.netlify.app/) |
+| [Repo](https://github.com/valerievozza/vegana) | [Repo](https://github.com/valerievozza/quizzical) | [Repo](https://github.com/valerievozza/useless-facts) |
+[Website](https://vegana.netlify.app) | [Website](https://quizzical-trivia-game.netlify.app/) | [Website](https://useless-facts.netlify.app/) |
 
 
 <h3 align="left">Languages and Tools:</h3>
