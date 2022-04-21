@@ -3,8 +3,8 @@
 # Hi, I’m Valerie!
 ## Software Engineer @100Devs | Portland, OR
 
-* **Portfolio:** https://valerievozza.netlify.app
 * **Twitter:** [@valerievozza_](https://www.twitter.com/valerievozza_)
+* **Portfolio:** https://valerievozza.netlify.app
 * **LinkedIn:** https://www.linkedin.com/in/valerievozza
 
 ### Projects
