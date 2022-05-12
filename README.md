@@ -7,8 +7,6 @@
 * **Portfolio:** https://valerievozza.netlify.app
 * **LinkedIn:** https://www.linkedin.com/in/valerievozza
 
-(https://badgen.net/github/commits/valerievozza/valerievozza)
-
 ### Projects
 
 | Vegana | Quizzical | Useless Fact Generator |
