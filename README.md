@@ -3,7 +3,7 @@
 # Hi, I’m Valerie!
 ## Software Engineer @100Devs | Portland, OR
 
-(https://www.codewars.com/users/valerievozza/badges/large.svg)
+!\[codewars\](https://www.codewars.com/users/valerievozza/badges/large.svg)
 
 * **Twitter:** [@valerievozza_](https://www.twitter.com/valerievozza_)
 * **Portfolio:** https://valerievozza.netlify.app
