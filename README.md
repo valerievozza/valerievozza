@@ -7,6 +7,8 @@
   <a href="https://www.linkedin.com/in/valerievozza"><img src="https://badgen.net/badge/linkedin/valerievozza/cyan"></a>
   <a href="https://www.twitter.com/valerievozza_"><img src ="https://badgen.net/badge/twitter/@valerievozza_/blue"></a>
   <a href="https://valerievozza.netlify.app"><img src="https://badgen.net/badge/portfolio/valerievozza.netlify.app/purple"></a>
+</p>
+<p align="center">
   <a href="https://www.codewars.com/users/valerievozza"><img src="https://www.codewars.com/users/valerievozza/badges/small"></a>
 </p>
 
