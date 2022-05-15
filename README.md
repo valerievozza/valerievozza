@@ -1,4 +1,4 @@
-![Valerie Vozza](https://user-images.githubusercontent.com/101529105/163921442-bffd97a6-a435-4dfb-aa79-5b3552dd981b.png)
+![Valerie Vozza](https://user-images.githubusercontent.com/101529105/168498178-d95043b3-bee7-42cc-abf6-e021568c30ad.png)
 
 # Hi, I’m Valerie!
 ## Software Engineer @100Devs | Portland, OR
