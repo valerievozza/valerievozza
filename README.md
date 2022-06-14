@@ -22,4 +22,4 @@
 
 ### Languages & Technologies
 
-JavaScript, Node, Express, MongoDB, React, HTML, CSS, APIs, Git
+JavaScript, Node, Express, MongoDB, React, HTML, CSS, EJS
