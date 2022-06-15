@@ -1,8 +1,7 @@
 ![Valerie Vozza](https://user-images.githubusercontent.com/101529105/168498178-d95043b3-bee7-42cc-abf6-e021568c30ad.png)
 
 # Hi, I’m Valerie!
-## Software Engineer | 100Devs
-Portland, OR
+## Software Engineer | 100Devs | Portland, OR
 
 <p align="center">
   <a href="https://www.linkedin.com/in/valerievozza" alt="LinkedIn"><img src="https://badgen.net/badge/linkedin/valerievozza/cyan"></a>
