@@ -22,4 +22,4 @@
 
 ### Languages & Technologies
 
-JavaScript, Node, Express, MongoDB, React, HTML5, CSS3, WordPress, Linux, Git
+JavaScript, Node, Express, MongoDB, React, HTML5, CSS3, EJS, WordPress, Linux, Git
