@@ -1,4 +1,4 @@
-![Valerie Vozza](https://user-images.githubusercontent.com/101529105/168498178-d95043b3-bee7-42cc-abf6-e021568c30ad.png)
+![Valerie Vozza banner](https://user-images.githubusercontent.com/101529105/168498178-d95043b3-bee7-42cc-abf6-e021568c30ad.png)
 
 # Hi, I’m Valerie!
 ## Software Engineer | 100Devs | Portland, OR
@@ -9,7 +9,7 @@
   <a href="https://valerievozza.dev" alt="Portfolio"><img src="https://badgen.net/badge/portfolio/valerievozza.dev/purple"></a>
 </p>
 <p align="center">
-  <a href="https://www.codewars.com/users/valerievozza"><img src="https://www.codewars.com/users/valerievozza/badges/small"></a>
+  <a href="https://www.codewars.com/users/valerievozza" alt="Codewars"><img src="https://www.codewars.com/users/valerievozza/badges/small"></a>
 </p>
 
 ### Projects
