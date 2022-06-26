@@ -12,7 +12,7 @@
   <a href="https://www.codewars.com/users/valerievozza" alt="Codewars"><img src="https://www.codewars.com/users/valerievozza/badges/small"></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valerievozza&" alt="valerievozza" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valerievozza&" alt="valerievozza" /></p>
 
 ### Projects
 
