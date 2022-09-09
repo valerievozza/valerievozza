@@ -1,4 +1,5 @@
-![Valerie Vozza banner](https://user-images.githubusercontent.com/101529105/168498178-d95043b3-bee7-42cc-abf6-e021568c30ad.png)
+![Valerie Vozza banner](https://user-images.githubusercontent.com/101529105/189405540-077d7c4d-40be-49b1-b287-bc813bf889fd.png)
+
 
 # Hi, I’m Valerie ✨
 ## Software Engineer | 100Devs | Portland, OR
