@@ -1,4 +1,5 @@
-![Valerie Vozza banner](https://user-images.githubusercontent.com/101529105/189405540-077d7c4d-40be-49b1-b287-bc813bf889fd.png)
+![Valerie Vozza banner](https://user-images.githubusercontent.com/101529105/189409221-e2cc3e7d-8d79-4194-b692-e1ff1e540ec7.png)
+
 
 
 # Hi, I’m Valerie ✨
