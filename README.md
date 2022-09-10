@@ -1,14 +1,13 @@
-![Valerie Vozza banner](https://user-images.githubusercontent.com/101529105/189409221-e2cc3e7d-8d79-4194-b692-e1ff1e540ec7.png)
-
+![Valerie Vozza banner](https://user-images.githubusercontent.com/101529105/189467733-f9936afd-971c-43ed-9a8f-6e8cbe0cf89e.png)
 
 
 # Hi, I’m Valerie ✨
 ## Software Engineer | 100Devs | Portland, OR
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/valerievozza" alt="LinkedIn"><img src="https://badgen.net/badge/linkedin/valerievozza/cyan"></a>
-  <a href="https://www.twitter.com/valerievozza_" alt="Twitter"><img src ="https://badgen.net/badge/twitter/@valerievozza_/blue"></a>
-  <a href="https://valerievozza.dev" alt="Portfolio"><img src="https://badgen.net/badge/portfolio/valerievozza.dev/purple"></a>
+  <a href="https://valerievozza.dev" alt="Portfolio"><img src="https://img.shields.io/badge/portfolio-valerievozza.dev-13B499"></a>
+  <a href="https://www.linkedin.com/in/valerievozza" alt="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%2Fvalerievozza-13B499"></a>
+  <a href="https://www.twitter.com/valerievozza_" alt="Twitter"><img src ="https://img.shields.io/badge/twitter-%2Fvalerievozza__-13B499"></a>
 </p>
 <p align="center">
   <a href="https://www.codewars.com/users/valerievozza" alt="Codewars"><img src="https://www.codewars.com/users/valerievozza/badges/small"></a>
@@ -18,9 +17,9 @@
 
 | Vegana | Quizzical | Useless Fact Generator |
 |:------:|:---------:|:----------------------:|
-| ![Vegana Screenshot](https://github.com/valerievozza/portfolio/blob/main/images/vegana.png) | ![Quizzical Screenshot](https://github.com/valerievozza/portfolio/blob/main/images/quizzical.png) | ![Useless Facts Screenshot](https://github.com/valerievozza/portfolio/blob/main/images/useless-facts.png) |
+| ![Vegana Screenshot](https://user-images.githubusercontent.com/101529105/189467039-fece082c-4e5d-4508-9bd2-c7d53efe9583.png) | ![Quizzical Screenshot](https://user-images.githubusercontent.com/101529105/189467045-6db5554b-2b20-4504-989f-bf05468e2bad.png) | ![Useless Facts Screenshot](https://user-images.githubusercontent.com/101529105/189467048-f7ff5ed5-e8d3-4391-8ed8-d0b53491766e.png) |
 | A web app that enables the user to enter a UPC code to see a list of the item's ingredients & whether or not they are vegan. Built using the Open Food Facts API. JavaScript, HTML, CSS | A trivia game in a web app built using the Open Trivia Database API. JavaScript, HTML, CSS | A web application that randomly generates a useless fun fact. Built using the Useless Facts API. JavaScript, HTML, CSS |
-| <a href="https://github.com/valerievozza/vegana"><img src="https://badgen.net/badge/icon/Repo/cyan?icon=github&label"></a> <a href="https://vegana.netlify.app"><img src="https://badgen.net/badge/🌐 /Website/purple"></a> | <a href="https://github.com/valerievozza/quizzical"><img src="https://badgen.net/badge/icon/Repo/cyan?icon=github&label"></a> <a href="https://quizzical-trivia-game.netlify.app"><img src="https://badgen.net/badge/🌐 /Website/purple"></a> | <a href="https://github.com/valerievozza/useless-facts"><img src="https://badgen.net/badge/icon/Repo/cyan?icon=github&label"></a> <a href="https://useless-facts.netlify.app"><img src="https://badgen.net/badge/🌐 /Website/purple"></a> |
+| <a href="https://github.com/valerievozza/vegana"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a> <a href="https://vegana.netlify.app"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a> | <a href="https://github.com/valerievozza/quizzical"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a> <a href="https://quizzical-trivia-game.netlify.app"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a> | <a href="https://github.com/valerievozza/useless-facts"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a> <a href="https://useless-facts.netlify.app"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a> |
 
 ### Languages & Tools 
 
