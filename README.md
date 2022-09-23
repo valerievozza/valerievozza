@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=valerievozza&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand&theme=dark"/>
 </p>
 
 ### Projects
