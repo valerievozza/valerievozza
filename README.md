@@ -13,6 +13,10 @@
   <a href="https://www.codewars.com/users/valerievozza" alt="Codewars"><img src="https://www.codewars.com/users/valerievozza/badges/small"></a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=valerievozza&show_icons=true&theme=dark"/>
+</p>
+
 ### Projects
 
 | Vegana | Quizzical | Useless Fact Generator |
@@ -20,8 +24,12 @@
 | ![Vegana Screenshot](https://user-images.githubusercontent.com/101529105/189467039-fece082c-4e5d-4508-9bd2-c7d53efe9583.png) | ![Quizzical Screenshot](https://user-images.githubusercontent.com/101529105/189467045-6db5554b-2b20-4504-989f-bf05468e2bad.png) | ![Useless Facts Screenshot](https://user-images.githubusercontent.com/101529105/189467048-f7ff5ed5-e8d3-4391-8ed8-d0b53491766e.png) |
 | A web app that enables the user to enter a UPC code to see a list of the item's ingredients & whether or not they are vegan. Built using the Open Food Facts API. JavaScript, HTML, CSS | A trivia game in a web app built using the Open Trivia Database API. JavaScript, HTML, CSS | A web application that randomly generates a useless fun fact. Built using the Useless Facts API. JavaScript, HTML, CSS |
 | <a href="https://github.com/valerievozza/vegana"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a> <a href="https://vegana.netlify.app"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a> | <a href="https://github.com/valerievozza/quizzical"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a> <a href="https://quizzical-trivia-game.netlify.app"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a> | <a href="https://github.com/valerievozza/useless-facts"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a> <a href="https://useless-facts.netlify.app"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a> |
+| Mailroom | myPetPal | Pictogram |
+| ![mailroom](https://user-images.githubusercontent.com/101529105/191888110-02847a0b-350d-405c-bad2-579aa0d25bdd.png) | ![myPetPal](https://user-images.githubusercontent.com/101529105/191888111-bfc0459b-2dc6-4fa3-9432-022b644c68ba.png) | ![pictogram2](https://user-images.githubusercontent.com/101529105/191889904-161375f7-07aa-42cc-bbfc-0bb01ee2af20.png) |
+| An application for shelters and non-profits to manage data for essential mail services for clients experiencing homelessness, fleeing domestic violence, or those who otherwise don't have access to a safe, consistant place to receive mail. JavaScript, Node, Express, Bootstrap CSS, Handlebars, MongoDB | Collaborated with a team of developers to build this full-stack web app to keep track of all the tasks necessary to keep your furry, feathered, & scaley friends happy & healthy. JavaScript, Node, Express, Bootstrap CSS, EJS, MongoDB | A full-stack photo-sharing social media application that enables users to post photos and leave comments on posts. JavaScript, Node, Express, Tailwind CSS, Handlebars, MongoDB |
+| <a href="https://github.com/valerievozza/mailroom"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a> <a href="https://mailroom.cyclic.app"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a> | <a href="https://github.com/valerievozza/myPetPal"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a> <a href="https://mypetpal.onrender.com/"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a> | <a href="https://github.com/valerievozza/pictogram"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a> <a href="https://pictogram.cyclic.app"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a> |
 
-### Languages & Tools 
+### Languages & Tools
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/> </a>
