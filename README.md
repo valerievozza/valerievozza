@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=valerievozza&theme=dark"/>
 </p>
 
 ### Projects
