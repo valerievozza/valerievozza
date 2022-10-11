@@ -13,10 +13,6 @@
   <a href="https://www.codewars.com/users/valerievozza" alt="Codewars"><img src="https://www.codewars.com/users/valerievozza/badges/small"></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=valerievozza&theme=dark"/>
-</p>
-
 ### Projects
 
 | Mailroom | Pocket | Pictogram |
