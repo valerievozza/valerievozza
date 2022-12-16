@@ -21,6 +21,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=valerievozza&theme=dark"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valerievozza&layout=compact&theme=dark">
+  </a>
+</p>
+
+
 ### Projects
 
 | Mailroom | Pocket | Pictogram |
