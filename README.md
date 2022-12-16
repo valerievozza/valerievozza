@@ -2,7 +2,7 @@
 
 
 # Hi, I’m Valerie ✨
-## Software Engineer | 100Devs | Portland, OR
+## Software Engineer | Portland, OR
 
 <p align="center">
   <a href="https://valerievozza.dev" alt="Portfolio"><img src="https://img.shields.io/badge/portfolio-valerievozza.dev-13B499"></a>
