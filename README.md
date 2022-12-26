@@ -140,7 +140,7 @@
   </tr>
   <tr>
     <td colspan="2" width="100%" align="center">
-      <img src="https://user-images.githubusercontent.com/101529105/200444182-423c29e9-3617-46d9-be68-204e894e532b.png" alt="MVC Screenshot">
+      <img src="https://user-images.githubusercontent.com/101529105/200444182-423c29e9-3617-46d9-be68-204e894e532b.png" alt="MVC Screenshot" width="50%">
     </td>
   </tr>
   <tr>
