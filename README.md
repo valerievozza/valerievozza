@@ -30,16 +30,129 @@
 
 ### Projects
 
-| Mailroom | Pocket | Pictogram |
-|:------:|:---------:|:----------------------:|
-| ![mailroom](https://user-images.githubusercontent.com/101529105/191888110-02847a0b-350d-405c-bad2-579aa0d25bdd.png) | ![Pocket Screenshot](https://user-images.githubusercontent.com/101529105/193366642-cbafa577-aa45-4111-ad22-2ef74074151f.png) | ![pictogram2](https://user-images.githubusercontent.com/101529105/191889904-161375f7-07aa-42cc-bbfc-0bb01ee2af20.png) |
-| An application for shelters and non-profits to manage data for essential mail services for clients experiencing homelessness, fleeing domestic violence, or those who otherwise don't have access to a safe, consistant place to receive mail<br><br>JavaScript, Node, Express, Bootstrap CSS, Handlebars, MongoDB | A personal budget tracker that breaks down expenses daily, weekly, monthly, & yearly so the user may see a more complete picture of their expenses<br><br>Node, Express, JavaScript, MongoDB, EJS, TailwindCSS | A full-stack photo-sharing social media application that enables users to post photos and leave comments on posts<br><br>JavaScript, Node, Express, Tailwind CSS, Handlebars, MongoDB |
-| <a href="https://github.com/valerievozza/mailroom"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a> <a href="https://mailroom.cyclic.app"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a> | <a href="https://github.com/valerievozza/pocket"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a> <a href="https://pocket.cyclic.app"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a> | <a href="https://github.com/valerievozza/pictogram"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a> <a href="https://pictogram.cyclic.app"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a> |
-||
-| Vegana | MVC Lecture | myPetPal |
-| ![Vegana Screenshot](https://user-images.githubusercontent.com/101529105/189467039-fece082c-4e5d-4508-9bd2-c7d53efe9583.png) | ![MVC Screenshot](https://user-images.githubusercontent.com/101529105/200444182-423c29e9-3617-46d9-be68-204e894e532b.png) | ![myPetPal Screenshot](https://user-images.githubusercontent.com/101529105/193366865-06170f11-efaf-40c6-bec6-ebf58617231c.png) |
-| A web app that enables the user to enter a UPC code to see a list of the item's ingredients & whether or not they are vegan. Built using the Open Food Facts API<br><br>JavaScript, HTML, CSS | Lecture slides about MVC architecture in JavaScript web applications | Collaborated with a team of developers to build this full-stack web app to keep track of all the tasks necessary to keep your furry, feathered, & scaley friends happy & healthy<br><br>JavaScript, Node, Express, Bootstrap CSS, EJS, MongoDB |
-| <a href="https://github.com/valerievozza/vegana"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a> <a href="https://vegana.netlify.app"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a> | <a href="https://github.com/valerievozza/mvc-architecture"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a> <a href="https://drive.google.com/file/d/18LKtNDYxT-YM5_VflXB7B7B2cJxzCIQW/view?usp=sharing"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a> | <a href="https://github.com/valerievozza/myPetPal"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a> <a href="https://mypetpal.onrender.com/"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a> |
+<!-- TABLE TABLE -->
+<table>
+  
+<!--  ROW 1  -->
+  <tr>
+    <td width="50%" align="center">
+      <b>Mailroom</b>
+    </td>
+    <td width="50%" align="center">
+      <b>Pocket</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/101529105/191888110-02847a0b-350d-405c-bad2-579aa0d25bdd.png" alt="Mailroom screenshot">
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/101529105/193366642-cbafa577-aa45-4111-ad22-2ef74074151f.png" alt="Pocket screenshot">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      An application for shelters and non-profits to manage data for essential mail services for clients experiencing homelessness, fleeing domestic violence, or those who otherwise don't have access to a safe, consistant place to receive mail<br><br>JavaScript, Node, Express, Bootstrap CSS, Handlebars, MongoDB
+    </td>
+    <td align="center">
+      A personal budget tracker that breaks down expenses daily, weekly, monthly, & yearly so the user may see a more complete picture of their expenses<br><br>Node, Express, JavaScript, MongoDB, EJS, TailwindCSS
+    </td>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/valerievozza/mailroom"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a> <a href="https://mailroom.cyclic.app"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/valerievozza/pocket"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a> <a href="https://pocket.cyclic.app"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a>
+    </td>
+  </tr>
+  
+<!--  ROW 2  -->
+  <tr>
+    <td width="50%" align="center">
+      <b>myPetPal</b>
+    </td>
+    <td width="50%" align="center">
+      <b>Pictogram</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/101529105/209583958-3d49da14-8704-4561-89bf-989d295d7b70.png" alt="myPetPal screenshot">
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/101529105/191889904-161375f7-07aa-42cc-bbfc-0bb01ee2af20.png" alt="Pictogram screenshot">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      Collaborated with a team of developers to build this full-stack web app to keep track of all the tasks necessary to keep your furry, feathered, & scaley friends happy & healthy<br><br>JavaScript, Node, Express, Bootstrap CSS, EJS, MongoDB
+    </td>
+    <td align="center">
+      A full-stack photo-sharing social media application that enables users to post photos and leave comments on posts<br><br>JavaScript, Node, Express, Tailwind CSS, Handlebars, MongoDB
+    </td>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/valerievozza/myPetPal"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a> <a href="https://mypetpal.onrender.com/"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/valerievozza/pictogram"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a> <a href="https://pictogram.cyclic.app"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a>
+    </td>
+  </tr>
+
+<!--  ROW 3  -->
+  <tr>
+    <td width="50%" align="center">
+      <b>Water Quality Data</b>
+    </td>
+    <td width="50%" align="center">
+      <b>Vegana</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/101529105/209583363-7e97e97b-ddbb-468f-b199-59825a8e3a8b.png" alt="Water Quality screenshot">
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/101529105/189467039-fece082c-4e5d-4508-9bd2-c7d53efe9583.png" alt="Vegana screenshot">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      A console app for tracking water quality data. Enables user to add facilities to database and log levels of lead in water over time<br><br>.NET, C#, SQLite
+    </td>
+    <td align="center">
+      A web app that enables the user to enter a UPC code to see a list of the item's ingredients & whether or not they are vegan. Built using the Open Food Facts API<br><br>JavaScript, HTML, CSS
+    </td>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/valerievozza/water-quality"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a> <a href="https://github.com/valerievozza/water-quality/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/🖥️ -download-13B499"></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/valerievozza/vegana"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a> <a href="https://vegana.netlify.app"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a>
+    </td>
+  </tr>
+  
+<!--  ROW 4  -->
+  <tr>
+    <td colspan="2" width="100%" align="center">
+      <b>MVC Lecture</b>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="100%" align="center">
+      <img src="https://user-images.githubusercontent.com/101529105/200444182-423c29e9-3617-46d9-be68-204e894e532b.png" alt="MVC Screenshot">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="100%" align="center">
+      Lecture slides about MVC architecture in JavaScript web applications
+    </td>
+  <tr>
+    <td colspan="2" width="100%" align="center">
+      <a href="https://github.com/valerievozza/mvc-architecture"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a> <a href="https://drive.google.com/file/d/18LKtNDYxT-YM5_VflXB7B7B2cJxzCIQW/view?usp=sharing"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a>
+    </td>
+  </tr>
+</table>
 
 ### Languages & Tools
 
