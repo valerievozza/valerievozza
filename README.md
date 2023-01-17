@@ -52,10 +52,10 @@
   </tr>
   <tr>
     <td align="center">
-      An application for shelters and non-profits to manage data for essential mail services for clients experiencing homelessness, fleeing domestic violence, or those who otherwise don't have access to a safe, consistant place to receive mail<br><br>JavaScript, Node, Express, Bootstrap CSS, Handlebars, MongoDB
+      An application for shelters and non-profits to manage data for essential mail services for clients experiencing homelessness, fleeing domestic violence, or those who otherwise don't have access to a safe, consistant place to receive mail<br><br>JavaScript, Node, Express, Bootstrap, Handlebars, MongoDB
     </td>
     <td align="center">
-      A personal budget tracker that breaks down expenses daily, weekly, monthly, & yearly so the user may see a more complete picture of their expenses<br><br><br>Node, Express, JavaScript, MongoDB, EJS, TailwindCSS
+      A personal budget tracker that breaks down expenses daily, weekly, monthly, & yearly so the user may see a more complete picture of their expenses<br><br><br>Node, Express, JavaScript, MongoDB, EJS, Tailwind
     </td>
   <tr>
     <td align="center">
@@ -85,10 +85,10 @@
   </tr>
   <tr>
     <td align="center">
-      Collaborated with a team of developers to build this full-stack web app to keep track of all the tasks necessary to keep your furry, feathered, & scaley friends happy & healthy<br><br>JavaScript, Node, Express, Bootstrap CSS, EJS, MongoDB
+      Collaborated with a team of developers to build this full-stack web app to keep track of all the tasks necessary to keep your furry, feathered, & scaley friends happy & healthy<br><br>JavaScript, Node, Express, Bootstrap, EJS, MongoDB
     </td>
     <td align="center">
-      A full-stack photo-sharing social media application that enables users to post photos and leave comments on posts<br><br><br>JavaScript, Node, Express, Tailwind CSS, Handlebars, MongoDB
+      A full-stack photo-sharing social media application that enables users to post photos and leave comments on posts<br><br><br>JavaScript, Node, Express, Tailwind, Handlebars, MongoDB
     </td>
   <tr>
     <td align="center">
@@ -118,7 +118,7 @@
   </tr>
   <tr>
     <td align="center">
-      A console app for tracking water quality data. Enables user to add facilities to database and log levels of lead in water over time<br><br><br>.NET, C#, SQLite
+      A console app for tracking water quality data. Enables user to add facilities to database and log levels of lead in water over time<br><br>.NET, C#, SQLite
     </td>
     <td align="center">
       A web app that enables the user to enter a UPC code to see a list of the item's ingredients & whether or not they are vegan. Built using the Open Food Facts API<br><br>JavaScript, HTML, CSS
