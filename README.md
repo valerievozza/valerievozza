@@ -59,10 +59,12 @@
     </td>
   <tr>
     <td align="center">
-      <a href="https://github.com/valerievozza/mailroom"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a> <a href="https://mailroom.cyclic.app"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a>
+      <a href="https://github.com/valerievozza/mailroom"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a>
+      <!-- <a href="https://mailroom.cyclic.app"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a> -->
     </td>
     <td align="center">
-      <a href="https://github.com/valerievozza/pocket"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a> <a href="https://pocket.cyclic.app"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a>
+      <a href="https://github.com/valerievozza/pocket"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a>
+      <!-- <a href="https://pocket.cyclic.app"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a> -->
     </td>
   </tr>
   
@@ -95,7 +97,8 @@
       <a href="https://github.com/valerievozza/myPetPal"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a> <a href="https://mypetpal.onrender.com/"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a>
     </td>
     <td align="center">
-      <a href="https://github.com/valerievozza/pictogram"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a> <a href="https://pictogram.cyclic.app"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a>
+      <a href="https://github.com/valerievozza/pictogram"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a>
+      <!-- <a href="https://pictogram.cyclic.app"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a> -->
     </td>
   </tr>
 
