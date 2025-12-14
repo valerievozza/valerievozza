@@ -5,16 +5,16 @@
 ## Software Engineer | Portland, OR
 
 <p align="center">
-  <a href="https://valerievozza.dev" alt="Portfolio"><img src="https://img.shields.io/badge/portfolio-valerievozza.dev-13B499"></a>
-  <a href="https://www.linkedin.com/in/valerievozza" alt="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%2Fvalerievozza-13B499"></a>
-  <a href="https://www.twitter.com/valerievozza_" alt="Twitter"><img src ="https://img.shields.io/badge/twitter-%2Fvalerievozza__-13B499"></a>
+  <a href="https://valerievozza.dev"><img src="https://img.shields.io/badge/portfolio-valerievozza.dev-13B499"></a>
+  <a href="https://www.linkedin.com/in/valerievozza"><img src="https://img.shields.io/badge/linkedin-%2Fvalerievozza-13B499"></a>
+  <a href="https://www.twitter.com/valerievozza_"><img src ="https://img.shields.io/badge/twitter-%2Fvalerievozza__-13B499"></a>
 </p>
 <p align="center">
-  <a href="https://www.codewars.com/users/valerievozza" alt="Codewars"><img src="https://www.codewars.com/users/valerievozza/badges/small"></a>
+  <a href="https://www.codewars.com/users/valerievozza"><img src="https://www.codewars.com/users/valerievozza/badges/small"></a>
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/valerievozza/" alt="Leetcode"><img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvalerievozza&logo=leetcode&logoColor=yellow"></a>
+  <a href="https://leetcode.com/valerievozza/"><img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvalerievozza&logo=leetcode&logoColor=yellow"></a>
 </p>
 
 <p align="center">
@@ -59,12 +59,12 @@
     </td>
   <tr>
     <td align="center">
-      <a href="https://github.com/valerievozza/mailroom" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a>
-      <a href="https://mailroom-co4f.onrender.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a>
+      <a href="https://github.com/valerievozza/mailroom"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a>
+      <a href="https://mailroom-co4f.onrender.com/"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a>
     </td>
     <td align="center">
-      <a href="https://github.com/valerievozza/pocket" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a>
-      <a href="https://pocket-9bhp.onrender.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a>
+      <a href="https://github.com/valerievozza/pocket"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a>
+      <a href="https://pocket-9bhp.onrender.com/"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a>
     </td>
   </tr>
   
@@ -94,12 +94,12 @@
     </td>
   <tr>
     <td align="center">
-      <a href="https://github.com/valerievozza/myPetPal" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a>
-      <a href="https://mypetpal.onrender.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a>
+      <a href="https://github.com/valerievozza/myPetPal"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a>
+      <a href="https://mypetpal.onrender.com/"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a>
     </td>
     <td align="center">
-      <a href="https://github.com/valerievozza/pictogram" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a>
-      <!-- <a href="https://pictogram.cyclic.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a> -->
+      <a href="https://github.com/valerievozza/pictogram"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a>
+      <!-- <a href="https://pictogram.cyclic.app"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a> -->
     </td>
   </tr>
 
@@ -129,12 +129,12 @@
     </td>
   <tr>
     <td align="center">
-      <a href="https://github.com/valerievozza/water-quality" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a>
+      <a href="https://github.com/valerievozza/water-quality"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a>
       <a href="https://github.com/valerievozza/water-quality/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/🖥️ -download-13B499"></a>
     </td>
     <td align="center">
-      <a href="https://github.com/valerievozza/vegana" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a>
-      <a href="https://vegana.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a>
+      <a href="https://github.com/valerievozza/vegana"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a>
+      <a href="https://vegana.netlify.app"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a>
     </td>
   </tr>
   
@@ -155,8 +155,8 @@
     </td>
   <tr>
     <td colspan="2" width="100%" align="center">
-      <a href="https://github.com/valerievozza/mvc-architecture" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a>
-      <a href="https://drive.google.com/file/d/18LKtNDYxT-YM5_VflXB7B7B2cJxzCIQW/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a>
+      <a href="https://github.com/valerievozza/mvc-architecture"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a>
+      <a href="https://drive.google.com/file/d/18LKtNDYxT-YM5_VflXB7B7B2cJxzCIQW/view?usp=sharing"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a>
     </td>
   </tr>
 </table>
