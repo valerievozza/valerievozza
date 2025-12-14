@@ -59,12 +59,12 @@
     </td>
   <tr>
     <td align="center">
-      <a href="https://github.com/valerievozza/mailroom"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a>
-      <!-- <a href="https://mailroom.cyclic.app"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a> -->
+      <a href="https://github.com/valerievozza/mailroom" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a>
+      <a href="https://mailroom-co4f.onrender.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a>
     </td>
     <td align="center">
-      <a href="https://github.com/valerievozza/pocket"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a>
-      <!-- <a href="https://pocket.cyclic.app"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a> -->
+      <a href="https://github.com/valerievozza/pocket" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a>
+      <a href="https://pocket-9bhp.onrender.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a>
     </td>
   </tr>
   
@@ -94,11 +94,12 @@
     </td>
   <tr>
     <td align="center">
-      <a href="https://github.com/valerievozza/myPetPal"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a> <a href="https://mypetpal.onrender.com/"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a>
+      <a href="https://github.com/valerievozza/myPetPal" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a>
+      <a href="https://mypetpal.onrender.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a>
     </td>
     <td align="center">
-      <a href="https://github.com/valerievozza/pictogram"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a>
-      <!-- <a href="https://pictogram.cyclic.app"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a> -->
+      <a href="https://github.com/valerievozza/pictogram" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a>
+      <!-- <a href="https://pictogram.cyclic.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a> -->
     </td>
   </tr>
 
@@ -128,10 +129,12 @@
     </td>
   <tr>
     <td align="center">
-      <a href="https://github.com/valerievozza/water-quality"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a> <a href="https://github.com/valerievozza/water-quality/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/🖥️ -download-13B499"></a>
+      <a href="https://github.com/valerievozza/water-quality" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a>
+      <a href="https://github.com/valerievozza/water-quality/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/🖥️ -download-13B499"></a>
     </td>
     <td align="center">
-      <a href="https://github.com/valerievozza/vegana"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a> <a href="https://vegana.netlify.app"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a>
+      <a href="https://github.com/valerievozza/vegana" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a>
+      <a href="https://vegana.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a>
     </td>
   </tr>
   
@@ -152,7 +155,8 @@
     </td>
   <tr>
     <td colspan="2" width="100%" align="center">
-      <a href="https://github.com/valerievozza/mvc-architecture"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a> <a href="https://drive.google.com/file/d/18LKtNDYxT-YM5_VflXB7B7B2cJxzCIQW/view?usp=sharing"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a>
+      <a href="https://github.com/valerievozza/mvc-architecture" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/✨ -repo-13B499"></a>
+      <a href="https://drive.google.com/file/d/18LKtNDYxT-YM5_VflXB7B7B2cJxzCIQW/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐 -website-13B499"></a>
     </td>
   </tr>
 </table>
@@ -175,4 +179,6 @@
 <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="50px"><!-- GITHUB -->
 <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" width="50px"><!-- NPM -->
 <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" width="50px"><!-- VSCODE -->
-<img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="VS Code" width="50px"><!-- SWAGGER --><img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" width="50px"><!-- RESTAPI --><img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" width="50px">
+<img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="VS Code" width="50px"><!-- SWAGGER -->
+<img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" width="50px"><!-- RESTAPI -->
+<img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" width="50px">
